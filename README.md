@@ -1,2 +1,2 @@
-# JackAndLindsey
-Website and REST API for Jack and Lindsey
+# JnL-Flask-API
+REST API for Jack and Lindsey
